@@ -28,7 +28,10 @@
     alt="Top Languages" 
   />
 </p>
-# 🌍 Portfolio - Nathalia Barcellos
+
+---
+
+###🌍 Portfolio - Nathalia Barcellos
 
 ## Índice / Index / Índice
 - [🇧🇷 Português](#-português)
