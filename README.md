@@ -73,9 +73,9 @@ Utilizo ferramentas como **Postman, Jira, Confluence, Azure DevOps, Python, SQL*
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
  </a>
-  <a href="https://wa.me/message/5521975087916" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" />
-  </a>
+  <a href="https://wa.me/5521975087916" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" />
+</a>
   <a href="https://discord.com/users/nbarc" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" />
   </a>
