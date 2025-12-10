@@ -1,17 +1,4 @@
-## 📊 GitHub Activity Graph
-
-<!-- Snake animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BarcellosNT/BarcellosNT/output/snake.svg?sanitize=true" alt="Snake animation" />
-</p>
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BarcellosNT&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=BarcellosNT&theme=dracula&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarcellosNT&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-</p>
-###🌍 Portfolio - Nathalia Barcellos
+##🌍 Portfolio - Nathalia Barcellos
 
 ## Índice / Index / Índice
 - [🇧🇷 Português](#-português)
