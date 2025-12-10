@@ -1,15 +1,16 @@
-## 📈 GitHub Activity Graph
+## 📊 GitHub Activity Graph
 
 <!-- Snake animation -->
-![Snake animation](https://raw.githubusercontent.com/BarcellosNT/BarcellosNT/output/snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BarcellosNT/BarcellosNT/output/snake.svg?sanitize=true" alt="Snake animation"/>
+</div>
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BarcellosNT&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BarcellosNT&show_icons=true&theme=dracula&cache_seconds=86400" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BarcellosNT&theme=dracula" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarcellosNT&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarcellosNT&layout=compact&theme=dracula&cache_seconds=86400" alt="Top Languages" />
 </p>
-
 
 # 🌍 Portfolio - Nathalia Barcellos
 
