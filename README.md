@@ -1,16 +1,3 @@
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github.com/BarcellosNT/BarcellosNT/blob/output/snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BarcellosNT&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BarcellosNT&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarcellosNT&layout=compact&theme=dracula" />
-</p>
-
----
 # 🌍 Portfolio - Nathalia Barcellos
 
 ## Índice / Index / Índice
