@@ -118,13 +118,47 @@ I use tools such as **Postman, Jira, Confluence, Azure DevOps, Python, SQL**, al
 
 ---
 
-### 🛠️ Tools & Technologies
-*(same badges as above)*
+
+### 🛠️ Ferramentas & Tecnologias
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-nbarc-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Robot%20Framework-000000?logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/K6-7D64FF?logo=k6&logoColor=white" />
+  <img src="https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter&logoColor=white" />
+</p>
 
 ---
 
-### 📲 Contact
-*(same badges as above)*
+### 📲 Contato
+<p align="center">
+  <a href="https://www.linkedin.com/in/barcellosqa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/barcellosnt?igsh=MXdwbnUydTUyd3QyNQ==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:barcellosqa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+ </a>
+  <a href="https://wa.me/5521975087916" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" />
+</a>
+  <a href="https://discord.com/users/nbarc" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" />
+  </a>
+
+</p>
 
 ---
 
@@ -162,10 +196,45 @@ Utilizo herramientas como **Postman, Jira, Confluence, Azure DevOps, Python, SQL
 
 ---
 
-### 🛠️ Herramientas & Tecnologías
-*(same badges as above)*
+
+### 🛠️ Ferramentas & Tecnologias
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-nbarc-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Robot%20Framework-000000?logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/K6-7D64FF?logo=k6&logoColor=white" />
+  <img src="https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter&logoColor=white" />
+</p>
 
 ---
 
-### 📲 Contacto
-*(same badges as above)*
+### 📲 Contato
+<p align="center">
+  <a href="https://www.linkedin.com/in/barcellosqa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/barcellosnt?igsh=MXdwbnUydTUyd3QyNQ==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:barcellosqa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+ </a>
+  <a href="https://wa.me/5521975087916" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" />
+</a>
+  <a href="https://discord.com/users/nbarc" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" />
+  </a>
+
+</p>
+
