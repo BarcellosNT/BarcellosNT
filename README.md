@@ -1,3 +1,6 @@
+
+![Snake animation](https://github.com/BarcellosNT/BarcellosNT/blob/output/snake.svg)
+
 # 🌍 Portfolio - Nathalia Barcellos
 
 ## Índice / Index / Índice
