@@ -1,17 +1,33 @@
 ## 📊 GitHub Activity Graph
 
-<!-- Snake animation -->
+<!-- Snake animation (SVG estável) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/BarcellosNT/BarcellosNT/output/snake.svg?sanitize=true" alt="Snake animation"/>
 </div>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats (Vercel estável) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BarcellosNT&show_icons=true&theme=dracula&cache_seconds=86400" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BarcellosNT&theme=dracula" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarcellosNT&layout=compact&theme=dracula&cache_seconds=86400" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=BarcellosNT&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400" 
+    alt="GitHub Stats" 
+  />
 </p>
 
+<!-- GitHub Streak (endpoint novo, sem Heroku) -->
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=BarcellosNT&theme=dracula&hide_border=true" 
+    alt="GitHub Streak" 
+  />
+</p>
+
+<!-- Top Languages (Vercel com cache) -->
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarcellosNT&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400" 
+    alt="Top Languages" 
+  />
+</p>
 # 🌍 Portfolio - Nathalia Barcellos
 
 ## Índice / Index / Índice
