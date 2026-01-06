@@ -29,15 +29,16 @@ Utilizo ferramentas como **Postman, Jira, Confluence, Azure DevOps, Python, SQL*
 ---
 
 ### 📚 Em constante evolução
-- QA MASTER – Qazando (2024)  
-- AWS para Iniciantes – Udemy (2025)  
-- Algoritmos e Lógica de Programação – Udemy (2025)  
-- Git e GitHub do básico ao avançado – Udemy (2025)  
-- Testes Automáticos + Curso COMPLETO de Teste de Software – Udemy (2024)  
-- Jornada Python – Hashtag Treinamentos (2024)  
-- Banco de Dados – Udemy (em andamento)  
-- CCAA – Espanhol (2009–2011)  
-- CCAA – Inglês (2006–2014)  
+- QA MASTER – Qazando (2024) 
+- Pruebas Automatizadas + Curso Completo de Pruebas de Software – Udemy (2024)  
+- Jornada Python – Hashtag Entrenamientos (2024)
+- AWS para Principiantes – Udemy (2025)  
+- Algoritmos y Lógica de Programación – Udemy (2025)  
+- Git y GitHub de básico a avanzado – Udemy (2025)  
+- Scrum – Udemy (2026)
+- SQL - Udemy (en curso)
+- CCAA – Español (2009–2011)  
+- CCAA – Inglés (2006–2014)  
 
 ---
 
@@ -111,8 +112,9 @@ I use tools such as **Postman, Jira, Confluence, Azure DevOps, Python, SQL**, al
 - Algorithms and Programming Logic – Udemy (2025)  
 - Git and GitHub from Basic to Advanced – Udemy (2025)  
 - Automated Testing + Complete Software Testing Course – Udemy (2024)  
-- Python Journey – Hashtag Training (2024)  
-- Databases – Udemy (ongoing)  
+- Python Journey – Hashtag Training (2024)
+- Scrum - Udemy (2026) 
+- SQL – Udemy (ongoing)  
 - CCAA – Spanish (2009–2011)  
 - CCAA – English (2006–2014)  
 
@@ -184,13 +186,14 @@ Utilizo herramientas como **Postman, Jira, Confluence, Azure DevOps, Python, SQL
 ---
 
 ### 📚 En constante evolución
-- QA MASTER – Qazando (2024)  
+- QA MASTER – Qazando (2024) 
+- Pruebas Automatizadas + Curso Completo de Pruebas de Software – Udemy (2024)  
+- Jornada Python – Hashtag Entrenamientos (2024)
 - AWS para Principiantes – Udemy (2025)  
 - Algoritmos y Lógica de Programación – Udemy (2025)  
 - Git y GitHub de básico a avanzado – Udemy (2025)  
-- Pruebas Automatizadas + Curso Completo de Pruebas de Software – Udemy (2024)  
-- Jornada Python – Hashtag Entrenamientos (2024)  
-- Bases de Datos – Udemy (en curso)  
+- Scrum – Udemy (2026)
+- SQL - Udemy (en curso)
 - CCAA – Español (2009–2011)  
 - CCAA – Inglés (2006–2014)  
 
